@@ -27,4 +27,4 @@ The rural communities of developing countries depend on wild edible plants to me
 
 # Applications Used
 * Jupyter Notebook
-* Visual Studio Code
+* Spyder
